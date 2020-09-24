@@ -8,4 +8,3 @@ Hi, my name is Timur and I just started developing this shit:)
 
 1. Добавить подключение к бд
 2. разобраться с сессиями
-3. Готово
